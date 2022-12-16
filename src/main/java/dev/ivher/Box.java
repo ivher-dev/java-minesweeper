@@ -1,3 +1,5 @@
+package dev.ivher;
+
 public class Box {
     private boolean mine;
     private boolean revealed;

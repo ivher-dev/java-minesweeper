@@ -1,3 +1,5 @@
+package dev.ivher;
+
 import java.util.HashSet;
 
 public class Board {
