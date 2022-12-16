@@ -97,7 +97,7 @@ public class Board {
                     }
                     break;
                 } catch (Exception e) {
-                    System.out.println("Invalid input! Introduce a valid number [0-"+this.boxes[0].length+"]!\n");
+                    System.out.println("Invalid input! Enter a valid number [0-"+this.boxes[0].length+"]!\n");
                 }
             }
             while (true){
@@ -109,7 +109,7 @@ public class Board {
                     }
                     break;
                 } catch (Exception e) {
-                    System.out.println("Invalid input! Introduce a valid number [0-"+this.boxes.length+"]!\n");
+                    System.out.println("Invalid input! Enter a valid number [0-"+this.boxes.length+"]!\n");
                 }
             }
             System.out.println();
